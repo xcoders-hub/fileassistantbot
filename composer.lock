@@ -1,5 +1,0 @@
-{
-    "require": {
-        "amphp/process": "^1.1"
-    }
-}
